@@ -43,6 +43,7 @@ The work of Research Software Engineers is critical to the success of modern res
 
 # Signed
 (name, institutional affiliation)
+Sandra Gesing, US Research Software Engineer Association
 
 
 
